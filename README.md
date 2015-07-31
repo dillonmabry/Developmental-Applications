@@ -5,7 +5,7 @@ Welcome to my Git! Feel free to contact me about anything!
 
 
 ### Version
-0.1.0
+0.1.1
 
 
 
