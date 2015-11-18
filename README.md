@@ -1,4 +1,4 @@
-# Developmental Programs
+## Developmental Programs
 ### -Dillon Mabry
 
 Test Applications for Various Projects from ITCS 2215 (Algorithm Design & Analysis). 
